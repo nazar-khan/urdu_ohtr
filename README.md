@@ -2,5 +2,8 @@
 ## Tayaba Anjum and Nazar Khan
 ## ICFHR 2020
 
+## Project page
+http://faculty.pucit.edu.pk/nazarkhan/work/urdu_ohtr/index.html
+
 ### Dataset
 https://drive.google.com/file/d/1itd147PcQYpduO1-jvm0HAq5k7HFbwfV/view?usp=sharing
